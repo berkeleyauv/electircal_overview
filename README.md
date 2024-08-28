@@ -10,7 +10,7 @@ Hello there! Welcome to the UR@B electrical team!
 - Create a github.com account 
 
 ## Electrical Overview
-As the electrical team, we handle all the tasks related to the electronics side such as PCB design and the associated firmware. 
+As the electrical team, we handle all the tasks related to the electronics side such as PCB design and creating the associated firmware. 
 
 ## Becoming a full electrical member:
 - Express Interest
@@ -18,15 +18,30 @@ As the electrical team, we handle all the tasks related to the electronics side 
     - Training Link: https://github.com/berkeleyauv/electrical_training
     - Note: As of now, the project is optional
 - Maintain participation 
-- Estimated Workload = 3-6 hours per week
+- Estimated Workload = 3-10 hours per week
     - During the exam seasons, there will be less pressure.
     - We may frontload the work in antipation of exam season. 
 
 ## Links:
 
 General UR@B Link: 
+
 Training: https://github.com/berkeleyauv/electrical_training
+
 Electrical Firmware Source Code: https://github.com/berkeleyauv/RoboSub_FW
+
 Electrical PCB Designs: https://github.com/berkeleyauv/RoboSub_HW
+
 PCB Parts: https://github.com/berkeleyauv/urbparts
+
 Inventory: 
+
+## Plan
+
+#### Fall 2024 
+- Focused on Onboarding new members
+  - Revamping the training to focus on both basics of electronics, firmware, and introduction of toolchains
+- Create a platform for the electrical team using RP2040 MCU
+- Finish the power distribution board
+  - Modifying current board to include sensors, MCU, and other optimization
+- Start the design of various other components like motor controllers and various sensors
