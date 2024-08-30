@@ -45,3 +45,4 @@ Inventory:
 - Finish the power distribution board
   - Modifying current board to include sensors, MCU, and other optimization
 - Start the design of various other components like motor controllers and various sensors
+- Plan to integrate firmware with Control's toolchain 
