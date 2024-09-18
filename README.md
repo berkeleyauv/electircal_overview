@@ -20,7 +20,10 @@ As the electrical team, we handle all the tasks related to the electronics side 
 - Maintain participation 
 - Estimated Workload = 3-10 hours per week
     - During the exam seasons, there will be less pressure.
-    - We may frontload the work in antipation of exam season. 
+    - We may frontload the work in antipation of exam season.
+ - You should get supernode keycard access. It gives you alot of benefits and its FREE! https://supernode.berkeley.edu/
+It takes only a couple of hours and doesn't require renewals. You also get cory access through this access for late hours/weekends. Supernode is a makerspace located in Cory 246. There's no strict deadline for this but it will really benefit you.
+ - Expect to be added to the **Gitbooks** where all our documentation exists after the introductory training has been finished.  
 
 ## Links:
 
